@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(
-    ['109550039.py'],
+    ['hybrid_agent.py'],
     pathex=[],
     binaries=[],
     datas=[],
@@ -28,7 +28,7 @@ exe = EXE(
     a.zipfiles,
     a.datas,
     [],
-    name='109550039',
+    name='hybrid_agent',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,
