@@ -6,7 +6,7 @@ class gameUI() :
         self.replay_index = 0
 
         self.window = Tk()
-        self.window.title("PA2")
+        self.window.title("Hex Nim Replay")
         self.window.geometry("660x470")
         self.window.resizable(0,0)
         self.canvas=Canvas(self.window , bg="#EEE8AC" , width=470, height=470)

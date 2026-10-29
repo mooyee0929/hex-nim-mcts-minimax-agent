@@ -1,6 +1,6 @@
 816077
-./Sample/0816077.exe
+./sample/third_party_opponent.exe
 109550039
-./Python Sample Code/dist/109550039.exe
+./agent/dist/hybrid_agent.exe
 25
 0

@@ -6,8 +6,8 @@ from numpy import zeros, array
 socketServer = None
 infoServer = ["localhost", 8888]
 '''
-    TODO:
-    請將 idTeam 改成學號,若開頭為0請去掉
+    Player ID sent to the server on connect.
+    It must match this player's ID in input.txt (no leading zeros).
 '''
 idTeam = 109550039
 
